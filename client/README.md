@@ -1,5 +1,9 @@
 # OrderMeal App
 
+![Screenshot](screenshot.png)
+
+![Screenshot](screenshot2.png)
+
 ## Technologies
 
 This project is based on MERN with Javascript:
@@ -16,7 +20,6 @@ This project is based on MERN with Javascript:
    ```console
    git clone https://github.com/zuzanakorma/react-order-meal-app.git
    ```
-
 
 ### Frontend
 
