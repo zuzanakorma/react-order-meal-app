@@ -1,0 +1,4 @@
+client/src/url/firebase-url.js
+
+*node_modules*
+*.DS_Store
